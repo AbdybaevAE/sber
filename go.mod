@@ -1,4 +1,4 @@
-module github.com/abdybaevae/sber
+module github.com/abdybaevae/sber/v1
 
 go 1.15
 
