@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"go.sberbank.kz/clients/guid"
+	"github.com/abdybaevae/guid"
 )
 
 type impl struct {
